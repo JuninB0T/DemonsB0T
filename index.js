@@ -258,7 +258,7 @@ async function starts() {
 					ownerB: '[❗] Este comando só pode ser usado pelo Santos ❌',
 					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
 					Badmin: '[❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
-                                        daftarB: `── 「REGISTRE-SE」 ──\nOlá você não está registrado no BOT registre-se agora com o comando *rg \n\nComando: ${prefix}rg nome|idade\nExemplo: ${prefix}rg Santos|18`,
+                                        daftarB: `── 「REGISTRE-SE」 ──\nOlá você não está registrado no BOT registre-se agora com o comando /rg \n\nComando: ${prefix}rg nome|idade\nExemplo: ${prefix}rg Santos|18`,
 				}
 			}
     			const apakah = ['Ya','Tidak']
